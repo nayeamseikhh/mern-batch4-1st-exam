@@ -164,3 +164,52 @@ nav .nav_right{
     margin-left: 0;
     margin-bottom: 185px;
 }
+/* ============about section start=========== */
+.about_frame{
+    margin-top: 191px;
+}
+#about .about_child{
+    position: absolute;
+}
+#about h6{
+    font-size: 18px;
+    color: #05A081;
+    font-weight: 700;
+}
+#about h3{
+    font-size: 45px;
+    color: #29313D;
+    font-weight: 700;
+    padding:0 240px;
+    padding-left: 0;
+    line-height: 64px;
+    margin-top: 40px;
+}
+#about .about_img_left img{
+    height: 514px;
+    width: 428px;
+    border-radius: 8px;
+    margin-left: -155px;
+    margin-top: 40px;
+}
+#about .about_img_left p{
+    margin-left: 64px;
+    margin-top: 89px;
+    font-size: 16px;
+    font-weight: 400;
+    padding: 0 40px;
+    line-height: 28px;
+    color: #29313D;
+}
+#about .about_img_right{
+    position: absolute;
+}
+#about .about_img_right img{
+    height: 617px;
+    width: 524px;
+    border-radius: 8px;
+    margin-left: 1009px;
+    margin-top: 0;
+    position: relative;
+    justify-content: space-between;
+}
